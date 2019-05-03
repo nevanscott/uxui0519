@@ -5,6 +5,7 @@ day: 6
 topics:
   - Benchmarking
   - Competitive Analysis
+description: Test update
 ---
 ## Learning Goals
 - Learn how to conduct a Business Analysis
